@@ -1,5 +1,5 @@
 ## What is Fiber Zen
-Fiber Zen will be a new, revolutionary scratch 'OS' revolved around the community! It will have a revolutionary UI, while also retaining the usability and practicality of previous versions of Fiber OS.
+Fiber Zen will be a new, revolutionary scratch "OS" revolved around the community! It will have a revolutionary UI, while also retaining the usability and practicality of previous versions of Fiber OS.
 
 ## Development
 We are currently in the Design Concept stage of development! Next will be the first level programming, which is making the basics of the OS, such as opening apps, and setting the home button to go to the correct wallpaper, or mode.
