@@ -14,10 +14,3 @@ Fiber Zen, unlike Nova, is not based around the cloud. We may have a server, but
 
 ## Contact
 Need to contact us for some reason? Go to https://github.com/FiberZen, our official github page!
-
-
-<html>
-<center>
-<iframe src="https://discordapp.com/widget?id=308719104611581956&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-</center>
-</html>
