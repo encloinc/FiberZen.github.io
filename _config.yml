@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Fiber Zen
-description: "Fiber Zen Is A New Revolutionary Scratch OS"
+description: "Fiber Zen Is The Next New Version Of Fiber OS"
 
 gems:
 - jekyll-mentions
+- jekyll-users
