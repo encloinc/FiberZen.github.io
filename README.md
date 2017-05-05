@@ -3,6 +3,8 @@ Fiber Zen will be a new, revolutionary scratch "OS" revolved around the communit
 
 ## Development
 We are currently in the Design Concept stage of development! Next will be the first level programming, which is making the basics of the OS, such as opening apps, and setting the home button to go to the correct wallpaper, or mode.
+<br/>
+
 ![Fiber 5.1 Homescreen](/img_1.jpg)
 
 ## History
