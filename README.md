@@ -5,7 +5,7 @@ Fiber Zen will be a new, revolutionary scratch "OS" revolved around the communit
 We are currently in the Design Concept stage of development! Next will be the first level programming, which is making the basics of the OS, such as opening apps, and setting the home button to go to the correct wallpaper, or mode.
 <br/>
 
-![Possible Home Screen](/Screen Shot 2017-05-05 at 2.37.39 PM.png)
+![PossibleHomeScreen](/Img_1.png)
 
 ## History
 Fiber was an "OS" developed by a scratch user, n25. The last Fiber version developed by him was fiber OS 5.10. Than a team was assembled to create a new version of Fiber OS, Fiber Nova. Fiber Nova was revolved around the cloud. The scratch cloud was slow, so an external server along with the scratch api was the best way to go, until the scratch cloud services quit. They simply stop being nearly usable, and Fiber Nova crashed. 
