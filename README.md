@@ -1,6 +1,13 @@
 ## What is Fiber Zen
 Fiber Zen will be a new, revolutionary scratch "OS" revolved around the community! It will have a revolutionary UI, while also retaining the usability and practicality of previous versions of Fiber OS.
 
+
+## Who is maintaining the project?
+On scratch, the fiberzen account is owned and managed by -Verso-
+
+## Current State of Development
+As stated on the scratch account, development is on and off, and at the moment its stopped. Thank you for your intrest.
+
 ## Development
 We are currently in the Design Concept stage of development! Next will be the first level programming, which is making the basics of the OS, such as opening apps, and setting the home button to go to the correct wallpaper, or mode. I think we have settled on a final design:
 <br/>
