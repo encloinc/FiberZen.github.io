@@ -1,4 +1,4 @@
-####THIS PROJECT HAS BEEN SHUT DOWN UNTIL FURTHER NOTICE
+### THIS PROJECT HAS BEEN SHUT DOWN UNTIL FURTHER NOTICE
 
 ## What is Fiber Zen
 Fiber Zen will be a new, revolutionary scratch "OS" revolved around the community! It will have a revolutionary UI, while also retaining the usability and practicality of previous versions of Fiber OS.
